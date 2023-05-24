@@ -1,0 +1,4 @@
+F:\My Box Files\studying\lập trình mạng căn bản\code thầy nhiệm\MiniGame\GameCoTuong\Draw\bin\Debug\Draw.dll
+F:\My Box Files\studying\lập trình mạng căn bản\code thầy nhiệm\MiniGame\GameCoTuong\Draw\bin\Debug\Draw.pdb
+F:\My Box Files\studying\lập trình mạng căn bản\code thầy nhiệm\MiniGame\GameCoTuong\Draw\obj\Debug\Draw.dll
+F:\My Box Files\studying\lập trình mạng căn bản\code thầy nhiệm\MiniGame\GameCoTuong\Draw\obj\Debug\Draw.pdb

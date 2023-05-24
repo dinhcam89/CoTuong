@@ -1,0 +1,7 @@
+C:\Users\lexus\Downloads\Slide - Jenkins Report - Presentation_files\New folder (3)\Code thầy Nhiệm\MiniGame\GameCoTuong\Backup\GameCoTuong\obj\Debug\GameCoTuong.csproj.AssemblyReference.cache
+C:\Users\lexus\Downloads\Slide - Jenkins Report - Presentation_files\New folder (3)\Code thầy Nhiệm\MiniGame\GameCoTuong\Backup\GameCoTuong\obj\Debug\GameCoTuong.FlashMessageBox.resources
+C:\Users\lexus\Downloads\Slide - Jenkins Report - Presentation_files\New folder (3)\Code thầy Nhiệm\MiniGame\GameCoTuong\Backup\GameCoTuong\obj\Debug\GameCoTuong.frmMain.resources
+C:\Users\lexus\Downloads\Slide - Jenkins Report - Presentation_files\New folder (3)\Code thầy Nhiệm\MiniGame\GameCoTuong\Backup\GameCoTuong\obj\Debug\GameCoTuong.Load.resources
+C:\Users\lexus\Downloads\Slide - Jenkins Report - Presentation_files\New folder (3)\Code thầy Nhiệm\MiniGame\GameCoTuong\Backup\GameCoTuong\obj\Debug\GameCoTuong.Properties.Resources.resources
+C:\Users\lexus\Downloads\Slide - Jenkins Report - Presentation_files\New folder (3)\Code thầy Nhiệm\MiniGame\GameCoTuong\Backup\GameCoTuong\obj\Debug\GameCoTuong.csproj.GenerateResource.cache
+C:\Users\lexus\Downloads\Slide - Jenkins Report - Presentation_files\New folder (3)\Code thầy Nhiệm\MiniGame\GameCoTuong\Backup\GameCoTuong\obj\Debug\GameCoTuong.csproj.CoreCompileInputs.cache

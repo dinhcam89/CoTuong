@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCoTuong", "GameCoTuong\GameCoTuong.csproj", "{176FD3E1-F938-426C-8F82-D4939384A245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{38492D6E-9102-4074-97C8-FEDEB0A1E9C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draw", "Draw\Draw.csproj", "{737BD593-F257-4C2D-B888-AF9521E22553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176FD3E1-F938-426C-8F82-D4939384A245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176FD3E1-F938-426C-8F82-D4939384A245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176FD3E1-F938-426C-8F82-D4939384A245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176FD3E1-F938-426C-8F82-D4939384A245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38492D6E-9102-4074-97C8-FEDEB0A1E9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38492D6E-9102-4074-97C8-FEDEB0A1E9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38492D6E-9102-4074-97C8-FEDEB0A1E9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38492D6E-9102-4074-97C8-FEDEB0A1E9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737BD593-F257-4C2D-B888-AF9521E22553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737BD593-F257-4C2D-B888-AF9521E22553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737BD593-F257-4C2D-B888-AF9521E22553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737BD593-F257-4C2D-B888-AF9521E22553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

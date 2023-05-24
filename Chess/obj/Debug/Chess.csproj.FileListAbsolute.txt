@@ -1,0 +1,5 @@
+F:\My Box Files\studying\lập trình mạng căn bản\code thầy nhiệm\MiniGame\GameCoTuong\Chess\bin\Debug\Chess.dll
+F:\My Box Files\studying\lập trình mạng căn bản\code thầy nhiệm\MiniGame\GameCoTuong\Chess\bin\Debug\Chess.pdb
+F:\My Box Files\studying\lập trình mạng căn bản\code thầy nhiệm\MiniGame\GameCoTuong\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+F:\My Box Files\studying\lập trình mạng căn bản\code thầy nhiệm\MiniGame\GameCoTuong\Chess\obj\Debug\Chess.dll
+F:\My Box Files\studying\lập trình mạng căn bản\code thầy nhiệm\MiniGame\GameCoTuong\Chess\obj\Debug\Chess.pdb
